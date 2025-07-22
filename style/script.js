@@ -8,11 +8,11 @@ window.removeEventListener("click", playMusicOnce);
 window.addEventListener("click", playMusicOnce);
 
 const messages = [
-  "Em là vũ trụ của anh",
-  "Tình yêu bất tận giữa các vì sao",
-  "Em là ngôi sao sáng nhất",
-  "Anh tỏa sáng là vì em",
-  "Em thật tỏa sáng trên bầu trời của anh"
+  "sinh nhat vui vẻ nha",
+  "thêm 1 tuổi mới",
+  "Sinh nhật năm nay có thể hơi buồn, nhưng cậu vẫn luôn là người xứng đáng với những điều tốt đẹp nhất. Chúc cậu sớm tìm lại nụ cười thật lòng!",
+  "Thất tình chỉ là tạm thời, còn sinh nhật thì vẫn phải vui!",
+  "Chúc cậu tuổi mới thật chill, quên người cũ và yêu chính mình hơn!"
 ];
 const fallingTexts = [];
 
