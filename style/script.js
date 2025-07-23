@@ -8,11 +8,11 @@ window.removeEventListener("click", playMusicOnce);
 window.addEventListener("click", playMusicOnce);
 
 const messages = [
-  "sinh nhat vui vẻ nha",
-  "thêm 1 tuổi mới",
-  "Tuổi mới, vui lên nha!",
-  "Thất tình kệ, sinh nhật phải chill!",
-  "Tuổi mới rực rỡ nha!"
+  "chúc cô vui vẻ",
+  "ko bị xanh cỏ sớm",
+  "ko gặp mấy đứa phun thuốc",
+  "luôn ccongs hiến cho nhà giáo",
+  "luôn năng động"
 ];
 const fallingTexts = [];
 
